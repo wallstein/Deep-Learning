@@ -1,4 +1,4 @@
 # Deep-Learning
 Repository to experiment with deep learning 
 
-Sources: MichalDanielDobrzanski/DeepLearningPython
+Currently learning with MichalDanielDobrzanski/DeepLearningPython
