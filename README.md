@@ -1,6 +1,4 @@
 # Deep-Learning
-Repository to experiment with deep learning.
+Repository to experiment with deep learning based on MichalDanielDobrzanski/DeepLearningPython. The aim is to recognize the value of a number in a picture using a neural network.
 
-The aim is to recognize the value of a number in a picture.
 
-Currently learning with MichalDanielDobrzanski/DeepLearningPython
